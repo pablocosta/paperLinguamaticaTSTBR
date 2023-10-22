@@ -1,6 +1,6 @@
 # paperLinguamaticaTSTBR
 
-Este é o repositório oficial para o artigo "Transferência de estilo textual arbitrário em português". Este repositório contém os córpus a base de código.
+Este é o repositório oficial para o artigo "Transferência de estilo textual arbitrário em português". Este repositório contém o córpus e a base de código utilizados no artigo.
 
 # Link para os modelos e dados utilizados no treinamento do PTPARANMT e paraPTT5
 
